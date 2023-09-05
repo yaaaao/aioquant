@@ -1,0 +1,10 @@
+{
+    "RABBITMQ": {
+        "host": "192.168.1.14",
+        "port": 5672,
+        "username": "yaaaao",
+        "password": "yaaaao"
+    },
+    "strategy": "my_test_strategy",
+    "symbol": "BTC/USDT"
+}
